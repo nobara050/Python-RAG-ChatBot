@@ -46,17 +46,6 @@ USING THE API
 - Send GET requests to `/chunks` to retrieve data chunks.
 - Send POST requests to `/tts` with a JSON body containing `text` to receive WAV audio.
 
-REQUIREMENTS
-------------
-langchain_google_genai
-langchain
-chromadb
-pytest
-dotenv
-pypdf
-boto3
-os
-
 LICENSE
 -------
 Information about the project license (if any)
